@@ -1,5 +1,7 @@
 * Corporate-owned devices with work profile
 ![image](https://user-images.githubusercontent.com/44326428/178165307-6d341cea-91c7-4e68-9eee-525ab926e6fa.png)
+![image](https://user-images.githubusercontent.com/44326428/178165706-d7dd074e-89ab-4c34-87ab-0ecd9320bd73.png)
+https://docs.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-enrollment-android#android-enterprise-corporate-owned-work-profile
 
 
 For this type of profile a token(s) needs to be created (where it will have an expirity date). (Similar to Bring your own Device, but this time the owner is the Tenant)<br/>
