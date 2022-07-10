@@ -15,7 +15,9 @@ because the profile created was "Corporate-ownedDedicatedDevices" then that will
 Onboarding Experience:
 * At the Welcome screen tap 7 times
 * configure the Wi-Fi 
-* login with User's UPN
+* login with User's UPN<br/>
+![image](https://user-images.githubusercontent.com/44326428/178165488-b12b88c2-5d56-4387-a201-9b6f0153c280.png)
 
 for more information: <br/>
 [Corporate-ownedDevicesWithWorkPprofile](https://www.inthecloud247.com/how-to-configure-android-corporate-owned-personally-enabled-user-devices-with-microsoft-intune/)
+
