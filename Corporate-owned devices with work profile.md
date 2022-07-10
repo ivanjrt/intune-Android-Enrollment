@@ -5,5 +5,16 @@ For this type of profile a token(s) needs to be created (where it will have an e
 ![image](https://user-images.githubusercontent.com/44326428/178164665-d8796314-0630-4c12-a5b5-19f1932c8e0a.png)<br/>
 ![image](https://user-images.githubusercontent.com/44326428/178164725-4b3afa3c-7d51-46be-a916-50f167e0f568.png)<br/>
 
+<br/>In order to bring it to the right Group a Dynamic Group will need to be created: <br/>
+https://endpoint.microsoft.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AllGroups
+![image](https://user-images.githubusercontent.com/44326428/178164923-1234235a-5862-4bdf-9dcc-f06c0785ebb5.png)
+Dynamic Rule Example = ``` (device.enrollmentProfileName -eq "Corporate-ownedDevicesWithWorkPprofile")```<br/>
+because the profile created was "Corporate-ownedDedicatedDevices" then that will be the profile needs tbe in the Dynamic Rule.<br/>
 
+Onboarding Experience:
+* At the Welcome screen tap 7 times
+* configure the Wi-Fi 
+* The device should fall in the group assigned
+
+for more information: <br/>
 Corporate-ownedDevicesWithWorkPprofile
