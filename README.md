@@ -4,10 +4,6 @@ https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesEnr
 ![image](https://user-images.githubusercontent.com/44326428/178161538-cbbae58d-8c7f-43a5-b0ef-7bf93b1d4779.png)
 ![image](https://user-images.githubusercontent.com/44326428/178161607-516035f2-3e34-4573-9f63-85565e522591.png)
 
-
-
-
-
 # * Android Enterprise Managment:
 This Type of Managment is handled by Google However Intune has works in partnership to deliver and Receive most configurations for Android via Google APIs <br/>
 # Prerequisites:
@@ -16,11 +12,7 @@ This Type of Managment is handled by Google However Intune has works in partners
 *  <a href="https://docs.microsoft.com/en-us/mem/intune/enrollment/android-kiosk-enroll#create-an-enrollment-profile">Create an enrollment profile.</a>
 # Enrollment Profiles:
 https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/androidEnrollment<br/>
-* Personally-owned devices with work profile<br/>
-![image](https://user-images.githubusercontent.com/44326428/178161665-06bc433e-c33e-4a0a-a586-64cb5f3db7e1.png)
-<br/>This is done by bring your own personal device to the Tenant, however user will need to download and install Company Portal and add their upn account<br/><br/>
-Afterwards the phone will create a separate Profile for Company Apps, Applications, and Policies within, while keeping the user's data separtely<br/>
-![image](https://user-images.githubusercontent.com/44326428/178162368-a80bc9af-adcb-47ed-927b-11806f20ea0c.png)
+
 
 
 * Corporate-owned, fully managed user devices<br/>
