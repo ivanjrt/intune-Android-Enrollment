@@ -8,6 +8,7 @@ For this type of profile a token(s) needs to be created (where it will have an e
 
 <br/>In order to bring it to the right Group a Dynamic Group will need to be created: <br/>
 https://endpoint.microsoft.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AllGroups
+![image](https://user-images.githubusercontent.com/44326428/178164972-db25df94-132c-4ba8-b65c-b8695c102cc9.png)
 Dynamic Rule Example = ``` (device.enrollmentProfileName -eq "Corporate-ownedDedicatedDevices") ```<br/>
 because the profile created was "Corporate-ownedDedicatedDevices" then that will be the profile needs tbe in the Dynamic Rule.<br/>
 
