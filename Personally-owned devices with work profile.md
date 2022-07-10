@@ -1,1 +1,5 @@
-
+* Personally-owned devices with work profile<br/>
+![image](https://user-images.githubusercontent.com/44326428/178161665-06bc433e-c33e-4a0a-a586-64cb5f3db7e1.png)
+<br/>This is done by bring your own personal device to the Tenant, however user will need to download and install Company Portal and add their upn account<br/><br/>
+Afterwards the phone will create a separate Profile for Company Apps, Applications, and Policies within, while keeping the user's data separtely<br/>
+![image](https://user-images.githubusercontent.com/44326428/178162368-a80bc9af-adcb-47ed-927b-11806f20ea0c.png)
