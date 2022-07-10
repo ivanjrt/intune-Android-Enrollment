@@ -1,6 +1,6 @@
 * Corporate-owned dedicated devices (Kiosks)
 ![image](https://user-images.githubusercontent.com/44326428/178163792-77a3e878-1393-486c-8923-6d976c75746d.png)
-![image](https://user-images.githubusercontent.com/44326428/178165624-ae752fdc-a747-4958-a32d-fce019bb3044.png)
+![image](https://user-images.githubusercontent.com/44326428/178165727-96beafd9-f501-494b-8ded-07cdc8b6afa8.png)
 https://docs.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-enrollment-android#android-enterprise-dedicated-devices
 
 For this type of profile a token(s) needs to be created (where it will have an expirity date). Vision Oriented to have dedicated devices for different purposes <br/>
