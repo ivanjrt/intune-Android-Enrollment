@@ -27,6 +27,8 @@ Afterwards the phone will create a separate Profile for Company Apps, Applicatio
 
 
 * Corporate-owned, fully managed user devices<br/>
+![image](https://user-images.githubusercontent.com/44326428/178163262-1c697450-ba40-4dae-a72a-616d283e3d0f.png)
+
 this method will generate a Unqiue BarCode Token for the tenant on which the user will have to scan.
 ![image](https://user-images.githubusercontent.com/44326428/178162184-8b6b12bb-aca1-41de-833d-f0869c86d918.png)
 
