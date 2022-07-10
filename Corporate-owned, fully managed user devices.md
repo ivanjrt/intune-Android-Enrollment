@@ -1,6 +1,7 @@
 * Corporate-owned, fully managed user devices<br/>
 ![image](https://user-images.githubusercontent.com/44326428/178163262-1c697450-ba40-4dae-a72a-616d283e3d0f.png)
-
+![image](https://user-images.githubusercontent.com/44326428/178165778-ed23b21f-2dca-43cd-bd7d-e9309c91ea6e.png)
+https://docs.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-enrollment-android#android-enterprise-fully-managed<br/>
 this method will generate a Unqiue BarCode Token for the tenant on which the user will have to scan.
 ![image](https://user-images.githubusercontent.com/44326428/178162184-8b6b12bb-aca1-41de-833d-f0869c86d918.png)
 
