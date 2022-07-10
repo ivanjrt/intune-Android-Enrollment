@@ -12,5 +12,6 @@ This Type of Managment is handled by Google However Intune has works in partners
 *  <a href="https://docs.microsoft.com/en-us/mem/intune/enrollment/android-kiosk-enroll#create-an-enrollment-profile">Create an enrollment profile.</a>
 # Enrollment Profiles:
 https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/androidEnrollment<br/>
+![image](https://user-images.githubusercontent.com/44326428/178163489-fbdd9f2a-f5ff-44c0-b284-361b6d2f6cf8.png)
 
 
