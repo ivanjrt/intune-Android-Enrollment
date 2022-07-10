@@ -16,6 +16,7 @@ Onboarding Experience:
 * At the Welcome screen tap 7 times
 * configure the Wi-Fi 
 * The device should fall in the group assigned
+![image](https://user-images.githubusercontent.com/44326428/178165564-8bbdf1e4-eb9b-40d2-ade2-8614be91cd00.png)
 
 for more information: <br/>
 https://www.inthecloud247.com/how-to-start-with-android-enterprise-corporate-owned-dedicated-devices-in-microsoft-intune/
