@@ -11,5 +11,4 @@ Dynamic Rule = ``` (device.deviceOSType -eq "AndroidEnterprise") and (device.enr
 
 In order to onboard the phone when first turning on the phone at the Welcome Screen, User needs to Tap 7 times and then Wifi will need to be configured then upn from the customer needs to be put in, that way the Rule will apply and bring in user to the respective Assigment Groups<br/>
 For Full imformation: https://vmlabblog.com/2020/07/corporate-owned-fully-managed-user-devices-cobo-with-intune/<br/>
-
-
+![image](https://user-images.githubusercontent.com/44326428/178165443-ead74100-32be-4c05-906f-28da9207eac5.png)
