@@ -31,6 +31,6 @@ Dyanmic Rule = ``` (device.deviceOSType -eq "AndroidEnterprise") and (device.enr
 ![image](https://user-images.githubusercontent.com/44326428/178162545-dcd352dd-c15d-4425-8bdf-bdeccef6cb83.png)
 
 In order to onboard the phone when first turning on the phone at the Welcome Screen, User needs to Tap 7 times and then Wifi will need to be configured then upn from the customer needs to be put in, that way the Rule will apply and bring in user to the respective Assigment Groups<br/>
-
+For Full imformation: https://vmlabblog.com/2020/07/corporate-owned-fully-managed-user-devices-cobo-with-intune/<br/>
 
 
