@@ -10,3 +10,11 @@ For this type of profile a token(s) needs to be created (where it will have an e
 https://endpoint.microsoft.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AllGroups
 Dynamic Rule Example = ``` (device.enrollmentProfileName -eq "Corporate-ownedDedicatedDevices") ```<br/>
 because the profile created was "Corporate-ownedDedicatedDevices" then that will be the profile needs tbe in the Dynamic Rule.<br/>
+
+Onboarding Experience:
+* At the Welcome screen tap 7 times
+* configure the Wi-Fi 
+* The device should fall in the group assigned
+
+for more information: <br/>
+https://www.inthecloud247.com/how-to-start-with-android-enterprise-corporate-owned-dedicated-devices-in-microsoft-intune/
