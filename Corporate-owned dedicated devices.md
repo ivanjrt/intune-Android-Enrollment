@@ -14,15 +14,16 @@ https://endpoint.microsoft.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlad
 Dynamic Rule Example = ``` (device.enrollmentProfileName -eq "Corporate-ownedDedicatedDevices") ```<br/>
 because the profile created was "Corporate-ownedDedicatedDevices" then that will be the profile needs tbe in the Dynamic Rule.<br/>
 
-Onboarding Experience:
+# Onboarding Experience:
+--GUI
 * At the Welcome screen tap 7 times
 * configure the Wi-Fi 
 * The device should fall in the group assigned<br/>
 ![image](https://user-images.githubusercontent.com/44326428/178165564-8bbdf1e4-eb9b-40d2-ade2-8614be91cd00.png)
 
-**or**
+</br> **or** <br/>
 
-# Steps on the Device: <br/>
+-- Steps on the Device: <br/>
 https://learn.microsoft.com/en-us/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll#steps<br/>
 Turn on your wiped device.<br/>
 On the Welcome screen, select your language.<br/>
