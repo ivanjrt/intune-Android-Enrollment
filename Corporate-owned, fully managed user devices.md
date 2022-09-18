@@ -2,7 +2,16 @@
 ![image](https://user-images.githubusercontent.com/44326428/178163262-1c697450-ba40-4dae-a72a-616d283e3d0f.png)
 ![image](https://user-images.githubusercontent.com/44326428/178165778-ed23b21f-2dca-43cd-bd7d-e9309c91ea6e.png)
 
-# Steps on the Device: <br/>
+# Onboarding Experience:
+--GUI
+* At the Welcome screen tap 7 times
+* configure the Wi-Fi 
+* The device should fall in the group assigned<br/>
+![image](https://user-images.githubusercontent.com/44326428/178165564-8bbdf1e4-eb9b-40d2-ade2-8614be91cd00.png)
+
+</br> **or** <br/>
+
+-- Steps on the Device: <br/>
 https://learn.microsoft.com/en-us/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll#steps<br/>
 Turn on your wiped device.<br/>
 On the Welcome screen, select your language.<br/>
