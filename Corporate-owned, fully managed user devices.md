@@ -9,7 +9,7 @@
 * The device should fall in the group assigned<br/>
 ![image](https://user-images.githubusercontent.com/44326428/178165564-8bbdf1e4-eb9b-40d2-ade2-8614be91cd00.png)
 
-</br> **or** <br/>
+</br> **or** Token enrollment option: https://learn.microsoft.com/en-us/mem/intune/user-help/enroll-device-android-microsoft-intune-app#qr-code-enrollment  <br/><br/>
 
 -- Steps on the Device: <br/>
 https://learn.microsoft.com/en-us/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll#steps<br/>
